@@ -74,7 +74,7 @@ Queues, stacks and trees
 
 ## From past papers
 
-(A2 2013)[https://drive.google.com/drive/folders/1D1IKlA5w7iP8FYyImBVX-F11ksgUrBbm]:
+[A2 2013](https://drive.google.com/drive/folders/1D1IKlA5w7iP8FYyImBVX-F11ksgUrBbm):
 
 * printing with special characters in strings
 * predicting what arithmetic operators will do
@@ -91,7 +91,7 @@ Queues, stacks and trees
 * reading/writing to a binary file with SEEK_SET, SEEK_CUR, SEEK_END
 * linked list and tree
 
-(A3 2023)[https://drive.google.com/drive/folders/1D1IKlA5w7iP8FYyImBVX-F11ksgUrBbm]:
+[A3 2023](https://drive.google.com/drive/folders/1D1IKlA5w7iP8FYyImBVX-F11ksgUrBbm):
 
 * counting characters input by user
 * function to count how many students passed and printing that
