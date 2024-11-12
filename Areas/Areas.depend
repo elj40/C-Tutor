@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731426075 source:c:\users\elaij\documents\c-tutor\areas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
