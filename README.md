@@ -22,6 +22,8 @@ Setup, arithmetic, data types, loops, functions:
     * Loops
 6. Header files explanation and showcase
 
+Rewrite the area project but for 3d shapes
+
 __Wednesday__
 
 Flowcharts and pseudocode, random, arrays:
