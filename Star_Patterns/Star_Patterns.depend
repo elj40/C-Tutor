@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731498699 source:c:\users\elaij\documents\c-tutor\star_patterns\main.c
+	<stdio.h>
+	<stdlib.h>
+	"draw_stars.h"
+
+1731498604 source:c:\users\elaij\documents\c-tutor\star_patterns\draw_stars.c
+
+1731498755 c:\users\elaij\documents\c-tutor\star_patterns\draw_stars.h
+
