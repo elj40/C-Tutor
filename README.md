@@ -30,12 +30,13 @@ Flowcharts and pseudocode, random, arrays:
 2. Printing star patterns
     * Loops
 3. Header files explanation and showcase
-3. Random explanation and showcase
-4. Explanation on pointers and showcase
+4. Random explanation and showcase
 5. Showcase arrays by computing current through resistors in series vs parallel
     * Arrays (subscript notation vs pointer notation)
     * Loops
-6.  Find final velocity based on acceleration and distance homework
+6. Explanation on pointers and showcase
+7. Do series vs parallel resistors again but with pointer notation
+8.  Find final velocity based on acceleration and distance homework
 
 __Thursday__
 
