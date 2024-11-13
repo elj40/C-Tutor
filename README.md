@@ -18,9 +18,6 @@ Setup, arithmetic, data types, loops, functions:
     * Basic arithmetic
     * Basic data types
     * If-else and switch statements
-5. Printing star patterns
-    * Loops
-6. Header files explanation and showcase
 
 __Wednesday__
 
@@ -28,12 +25,15 @@ Flowcharts and pseudocode, random, arrays:
 
 1. Quickly showcase flowcharts
     * 1 or 2 examples, convert to pseudocode and work through their outputs
-2. Random explanation and showcase
-2. Explanation on pointers and showcase
-3. Showcase arrays by computing current through resistors in series vs parallel
+2. Printing star patterns
+    * Loops
+3. Header files explanation and showcase
+3. Random explanation and showcase
+4. Explanation on pointers and showcase
+5. Showcase arrays by computing current through resistors in series vs parallel
     * Arrays (subscript notation vs pointer notation)
     * Loops
-4.  Find final velocity based on acceleration and distance homework
+6.  Find final velocity based on acceleration and distance homework
 
 __Thursday__
 
