@@ -19,6 +19,8 @@ Setup, arithmetic, data types, loops, functions:
     * Basic data types
     * If-else and switch statements
 
+Rewrite the area project but for 3d shapes
+
 __Wednesday__
 
 Flowcharts and pseudocode, random, arrays:
