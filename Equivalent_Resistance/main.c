@@ -33,8 +33,6 @@ int main()
 
     }
 
-
-
     parallel_eq = 1/parallel_eq;
 
     //Format this too?
