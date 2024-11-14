@@ -41,7 +41,9 @@ Flowcharts and pseudocode, random, arrays:
 __Thursday__
 
 Pointers to pointers, 2d arrays, recursion:
+
 3. Header files explanation
+
 1. Recap of memory and what pointers are
 2. Printing and storing star patterns in an array
 3. Gopher project homework
