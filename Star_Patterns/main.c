@@ -11,6 +11,7 @@
 
 #include "draw_stars.h"
 
+
 int main()
 {
 
@@ -37,5 +38,6 @@ int main()
 	// Step 6: Can we extract those functions into a header file?
     return 0;
 }
+
 
 

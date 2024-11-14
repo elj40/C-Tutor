@@ -1,8 +1,9 @@
-#ifndef DRAW_STARS_H_INCLUDED
-#define DRAW_STARS_H_INCLUDED
+#ifndef DRAW_STARS_H
+#define DRAW_STARS_H
 
+// stuff
 void draw_cross(int size);
 void draw_circle(int size, int radius);
 
 
-#endif // DRAW_STARS_H_INCLUDED
+#endif
