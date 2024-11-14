@@ -29,7 +29,7 @@ Flowcharts and pseudocode, random, arrays:
     * 1 or 2 examples, convert to pseudocode and work through their outputs
 2. Printing star patterns
     * Loops
-3. Header files explanation and showcase
+3. Header files explanation
 4. Random explanation and showcase
 5. Showcase arrays by computing current through resistors in series vs parallel
     * Arrays (subscript notation vs pointer notation)
@@ -41,9 +41,9 @@ Flowcharts and pseudocode, random, arrays:
 __Thursday__
 
 Pointers to pointers, 2d arrays, recursion:
-
+3. Header files explanation
 1. Recap of memory and what pointers are
-2. Printing and storing star patterns in an array showcase
+2. Printing and storing star patterns in an array
 3. Gopher project homework
 4. Recursion explanation
     * Factorial
