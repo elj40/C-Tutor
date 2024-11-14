@@ -47,10 +47,15 @@ Pointers to pointers, 2d arrays, recursion:
 1. Recap of memory and what pointers are
 2. Printing and storing star patterns in an array
 3. Gopher project homework
-4. Recursion explanation
+   * Make a 2d array
+   * everything should be a '.' except for a random cell should a 'G'
+   * print out array to screen as a grid
+5. Recursion explanation
     * Factorial
     * Binary search
-5. Recursive fibonacci and loop homework
+6. Recursive fibonacci and loop homework
+    * Recap the recursion stuff we did now
+    * Try write them from scratch
 
 __Friday__
 
