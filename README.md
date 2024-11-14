@@ -42,7 +42,7 @@ __Thursday__
 
 Pointers to pointers, 2d arrays, recursion:
 
-3. Header files explanation
+0. Header files explanation
 
 1. Recap of memory and what pointers are
 2. Printing and storing star patterns in an array
@@ -56,6 +56,9 @@ Pointers to pointers, 2d arrays, recursion:
 6. Recursive fibonacci and loop homework
     * Recap the recursion stuff we did now
     * Try write them from scratch
+    * [Recursive example video](https://www.youtube.com/watch?v=ngCos392W4w): only worry about the first example, the others are harder than we would get in the exam
+
+
 
 __Friday__
 
