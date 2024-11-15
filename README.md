@@ -70,6 +70,7 @@ Structs, file IO
 2. Complex number library showcase + homework
     * making structs and shorten name with typdef
     * access structs and struct pointers
+3. Explain strings that end in null character
 3. Count how many times a letter occurs in a file, write to binary and text file showcase
 4. Count how many time a number occurs in a text file, write to binary and text file homework
 5. Read from a binary file using SEEK_SET, SEEK_CUR, SEEK_END showcase + homework
