@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1731666074 source:c:\users\elaij\documents\c-tutor\fileio_showcase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+

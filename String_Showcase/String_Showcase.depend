@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731659947 source:c:\users\elaij\documents\c-tutor\string_showcase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
