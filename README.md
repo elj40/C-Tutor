@@ -42,11 +42,12 @@ __Thursday__
 
 Pointers to pointers, 2d arrays, recursion:
 
-3. Header files explanation
+0. Header files explanation
 
 1. Recap of memory and what pointers are
 2. Printing and storing star patterns in an array
-3. Gopher project homework
+      * [Better explanation of pointers](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+4. Gopher project homework
    * Make a 2d array
    * everything should be a '.' except for a random cell should a 'G'
    * print out array to screen as a grid
@@ -56,6 +57,10 @@ Pointers to pointers, 2d arrays, recursion:
 6. Recursive fibonacci and loop homework
     * Recap the recursion stuff we did now
     * Try write them from scratch
+    * [Recursive example video](https://www.youtube.com/watch?v=ngCos392W4w): only worry about the first example, the others are harder than we would get in the exam
+    * [Recursion course](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H): it'll go a bit advanced later in the series, so only worry about this video to understand the concept
+
+
 
 __Friday__
 
@@ -65,6 +70,7 @@ Structs, file IO
 2. Complex number library showcase + homework
     * making structs and shorten name with typdef
     * access structs and struct pointers
+3. Explain strings that end in null character
 3. Count how many times a letter occurs in a file, write to binary and text file showcase
 4. Count how many time a number occurs in a text file, write to binary and text file homework
 5. Read from a binary file using SEEK_SET, SEEK_CUR, SEEK_END showcase + homework
