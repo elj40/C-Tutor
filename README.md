@@ -81,10 +81,13 @@ Queues, stacks and trees
 1. Explain what each one is visually
 2. Short explanation of Big O
 3. Linked list, stack and queue showcase
-5. Binary tree explanation (pre-, in-, postorder)
-6. Add to binary tree showcase
-7. Print values in tree larger than showcase
-8. Print values in range homework
+    * [Linked list explained](https://www.youtube.com/watch?v=N6dOwBde7-M&pp=ygUMbGlua2VkIGxpc3Rz)
+4. Binary tree explanation (pre-, in-, postorder)
+5. Add to binary tree showcase
+6. Sorting algorithms:
+    * [Playlist of every sorting algorithm explained](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
+
+GOOD LUCK!
 
 ## From past papers
 
