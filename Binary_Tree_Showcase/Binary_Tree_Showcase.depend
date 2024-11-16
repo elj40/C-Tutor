@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731759566 source:c:\users\elaij\documents\c-tutor\binary_tree_showcase\main.c
+	<stdio.h>
+	<stdlib.h>
+
