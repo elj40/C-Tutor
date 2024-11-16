@@ -80,7 +80,7 @@ __Saturday__
 Queues, stacks and trees
 1. Explain what each one is visually
 2. Short explanation of Big O
-3 Linked list, stack and queue showcase
+3. Linked list, stack and queue showcase
 5. Binary tree explanation (pre-, in-, postorder)
 6. Add to binary tree showcase
 7. Print values in tree larger than showcase
